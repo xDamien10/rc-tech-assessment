@@ -1,4 +1,4 @@
-# Dávid Csenki front-end challange
+# Dávid Csenki front-end challange solution
 
 # rc-tech-assessment
 ARC tech assessment libraries
